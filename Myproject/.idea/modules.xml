@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/My project.iml" filepath="$PROJECT_DIR$/My project.iml" group="My project" />
+      <module fileurl="file://$PROJECT_DIR$/app/Myproject-app.iml" filepath="$PROJECT_DIR$/app/Myproject-app.iml" group="My project/app" />
+      <module fileurl="file://$PROJECT_DIR$/android2dgame/android2dgame.iml" filepath="$PROJECT_DIR$/android2dgame/android2dgame.iml" group="My project/android2dgame" />
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" group="My project/animation" />
+      <module fileurl="file://$PROJECT_DIR$/bitmapread/bitmapread.iml" filepath="$PROJECT_DIR$/bitmapread/bitmapread.iml" group="My project/bitmapread" />
+      <module fileurl="file://$PROJECT_DIR$/buttons/buttons.iml" filepath="$PROJECT_DIR$/buttons/buttons.iml" group="My project/buttons" />
+      <module fileurl="file://$PROJECT_DIR$/clicklesson/clicklesson.iml" filepath="$PROJECT_DIR$/clicklesson/clicklesson.iml" group="My project/clicklesson" />
+      <module fileurl="file://$PROJECT_DIR$/contextmenu/contextmenu.iml" filepath="$PROJECT_DIR$/contextmenu/contextmenu.iml" group="My project/contextmenu" />
+      <module fileurl="file://$PROJECT_DIR$/contextmenu_2/contextmenu_2.iml" filepath="$PROJECT_DIR$/contextmenu_2/contextmenu_2.iml" group="My project/contextmenu_2" />
+      <module fileurl="file://$PROJECT_DIR$/counter/counter.iml" filepath="$PROJECT_DIR$/counter/counter.iml" group="My project/counter" />
+      <module fileurl="file://$PROJECT_DIR$/ekran/ekran.iml" filepath="$PROJECT_DIR$/ekran/ekran.iml" group="My project/ekran" />
+      <module fileurl="file://$PROJECT_DIR$/googlemap/googlemap.iml" filepath="$PROJECT_DIR$/googlemap/googlemap.iml" group="My project/googlemap" />
+      <module fileurl="file://$PROJECT_DIR$/intentfilter/intentfilter.iml" filepath="$PROJECT_DIR$/intentfilter/intentfilter.iml" group="My project/intentfilter" />
+      <module fileurl="file://$PROJECT_DIR$/lib_project/lib_project.iml" filepath="$PROJECT_DIR$/lib_project/lib_project.iml" group="My project/lib_project" />
+      <module fileurl="file://$PROJECT_DIR$/menuforgame/menuforgame.iml" filepath="$PROJECT_DIR$/menuforgame/menuforgame.iml" group="My project/menuforgame" />
+      <module fileurl="file://$PROJECT_DIR$/move/move.iml" filepath="$PROJECT_DIR$/move/move.iml" group="My project/move" />
+      <module fileurl="file://$PROJECT_DIR$/newapp/newapp.iml" filepath="$PROJECT_DIR$/newapp/newapp.iml" group="My project/newapp" />
+      <module fileurl="file://$PROJECT_DIR$/picasso/picasso.iml" filepath="$PROJECT_DIR$/picasso/picasso.iml" group="My project/picasso" />
+      <module fileurl="file://$PROJECT_DIR$/picasso2/picasso2.iml" filepath="$PROJECT_DIR$/picasso2/picasso2.iml" group="My project/picasso2" />
+      <module fileurl="file://$PROJECT_DIR$/player/player.iml" filepath="$PROJECT_DIR$/player/player.iml" group="My project/player" />
+      <module fileurl="file://$PROJECT_DIR$/popupmenu/popupmenu.iml" filepath="$PROJECT_DIR$/popupmenu/popupmenu.iml" group="My project/popupmenu" />
+      <module fileurl="file://$PROJECT_DIR$/scroll_project/scroll_project.iml" filepath="$PROJECT_DIR$/scroll_project/scroll_project.iml" group="My project/scroll_project" />
+      <module fileurl="file://$PROJECT_DIR$/sherlock/sherlock.iml" filepath="$PROJECT_DIR$/sherlock/sherlock.iml" group="My project/sherlock" />
+      <module fileurl="file://$PROJECT_DIR$/svetofor/svetofor.iml" filepath="$PROJECT_DIR$/svetofor/svetofor.iml" group="My project/svetofor" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" group="My project/test" />
+      <module fileurl="file://$PROJECT_DIR$/touch/touch.iml" filepath="$PROJECT_DIR$/touch/touch.iml" group="My project/touch" />
+      <module fileurl="file://$PROJECT_DIR$/turn_ecran/turn_ecran.iml" filepath="$PROJECT_DIR$/turn_ecran/turn_ecran.iml" group="My project/turn_ecran" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">menuforgame</string>
+    <string name="menu_start_game">Start game</string>
+    <string name="menu_quick_game">Quick game</string>
+    <string name="menu_settings_game">Settings game</string>
+    <string name="menu_about">About game</string>
+    <string name="menu_exit">Exit</string>
+    <string name="sound">sound</string>
+    <string name="music">music</string>
+    <string name="vibrate">vibrate</string>
+    <string name="graphics">graphics</string>
+</resources>
